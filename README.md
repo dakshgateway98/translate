@@ -1,2 +1,2 @@
-# translate Application using React
+# Translate Application using React
  
